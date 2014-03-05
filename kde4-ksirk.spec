@@ -4,12 +4,12 @@
 
 Summary:	Ksirk
 Name:		kde4-%{orgname}
-Version:	4.12.2
+Version:	4.12.3
 Release:	1
 License:	GPL
 Group:		X11/Applications/Games
 Source0:	ftp://ftp.kde.org/pub/kde/%{_state}/%{version}/src/%{orgname}-%{version}.tar.xz
-# Source0-md5:	b1b4279a9a4bd6aa7ca959126f8b2ae6
+# Source0-md5:	de300248d1fb6ce36be92cfbacbebd37
 BuildRequires:	automoc4 >= 0.9.88
 BuildRequires:	cmake >= 2.8.0
 BuildRequires:	kde4-kdelibs-devel >= %{version}
